@@ -6,3 +6,6 @@
 # 작가
 - 임태훈 <junorex@naver.com>
 - http://blog.naver.com/junorex
+
+# 오늘의 교훈
+- 분산형 글쓰기. 중앙집중화된 모든 업무 방식에 이의를! 
